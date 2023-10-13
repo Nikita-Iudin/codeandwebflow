@@ -249,4 +249,7 @@ html {
     transform: translateY(-4px);
     opacity: 0;
   }
-}
+} 
+.bg-color {
+  color:red; 
+} 
