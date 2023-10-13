@@ -1,3 +1,7 @@
+#bgcolor {
+  color:red; 
+}  
+
 #stars {
   width: 1px;
   height: 1px;
@@ -250,6 +254,4 @@ html {
     opacity: 0;
   }
 } 
-#bg-color {
-  color:red; 
-} 
+
