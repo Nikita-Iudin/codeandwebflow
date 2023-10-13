@@ -100,7 +100,7 @@ html {
   width: 100%;
   height: 100%;
   border-radius: 100%/100%;
-  background: #215496;
+  background: #fff;
   -webkit-filter: blur(200px);
   opacity: 0.7;
   top: -10%;
@@ -254,5 +254,18 @@ html {
     transform: translateY(-4px);
     opacity: 0;
   }
+} 
+@media (max-width:768px) {
+  #earth {
+  position: absolute;
+  width: 200%;
+  height: 95%;
+  background: black;
+  border-radius: 100%/100%;
+  left: 50%;
+  bottom: -4%;
+  margin-left: -100%;
+  display:none; 
+}
 } 
 
